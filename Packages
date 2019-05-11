@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.aidgi.testtheme
+Version: 1.0
+Section: Themes
+Maintainer: Aidan <giniseaidan@gmail.com>
+Depends: firmware (>12.0), com.spark.springboard
+Architecture: iphoneos-arm
+Filename: ./debs/com.aidgi.testtheme_1.0_iphoneos-arm.deb
+Size: 5000
+MD5sum: cc3ca2104cddc147f5aaf9a76b32c9f1
+Description: This is a test theme just to test out my coding abilities.
+Name: Test Theme
+Author: Aidan <giniseaidan@gmail.com>
+Depiction: https://aidgi.github.io/regig2/depictions/?p=com.aidgi.testtheme
