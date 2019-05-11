@@ -34,7 +34,7 @@ Depends: firmware (>12.0), com.spark.springboard
 Architecture: iphoneos-arm
 Filename: ./debs/com.aidgi.testtheme_1.0_iphoneos-arm.deb
 Size: 5000
-MD5sum: cc3ca2104cddc147f5aaf9a76b32c9f1
+MD5sum: 24135a93be6e6e50a09bb98aee029d00
 Description: This is a test theme just to test out my coding abilities.
 Name: Test Theme
 Author: Aidan <giniseaidan@gmail.com>
